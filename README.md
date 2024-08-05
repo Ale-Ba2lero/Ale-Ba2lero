@@ -1,5 +1,5 @@
 # AI Technologies and Cloud
-- 👀 Currently working on my new AI product
+- 👀 Currently working on a new AI project
 - 🌱 Always learning new stuff and technologies
 - 📫 How to reach me: alessandroballerini95@gmail.com
 
